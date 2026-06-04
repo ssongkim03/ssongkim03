@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🔐 Projects
 
-<!--
-**ssongkim03/ssongkim03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
+| [powershell-malware-analysis](https://github.com/ssongkim03/powershell-malware-analysis) | PowerShell 악성코드 정적/동적 분석 | PowerShell, Windows |
+| [system-vulnerability-assessment](https://github.com/ssongkim03/system-vulnerability-assessment) | Windows/Linux 시스템 취약점 진단 스크립트 및 보고서 | Batch, Shell |
+| [cnn-image-classification](https://github.com/ssongkim03/cnn-image-classification) | CNN을 이용한 Food-101 이미지 분류 실습 | Python, TensorFlow, Keras |
+| [language-study](https://github.com/ssongkim03/language-study) | Python / C 언어 기초 학습 기록 | Python, C |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
