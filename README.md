@@ -2,6 +2,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
+| [궁합냥멍](https://github.com/realthoroughbred/aws_project) | 동물 MBTI 기반 반려동물 매칭 서비스 (팀 프로젝트) | Python, Flask, Streamlit, Docker, AWS |
 | [powershell-malware-analysis](https://github.com/ssongkim03/powershell-malware-analysis) | PowerShell 악성코드 정적/동적 분석 | PowerShell, Windows |
 | [system-vulnerability-assessment](https://github.com/ssongkim03/system-vulnerability-assessment) | Windows/Linux 시스템 취약점 진단 스크립트 및 보고서 | Batch, Shell |
 | [cnn-image-classification](https://github.com/ssongkim03/cnn-image-classification) | CNN을 이용한 Food-101 이미지 분류 실습 | Python, TensorFlow, Keras |
